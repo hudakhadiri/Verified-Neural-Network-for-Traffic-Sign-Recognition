@@ -1,4 +1,4 @@
-![Description of Image 1](https://github.com/hudakhadiri/hudakhadiri/raw/main/1729075813133.jpeg)
+![Alt text for the image](./1729075813133.jpeg)
 ![Description of Image 2](https://github.com/hudakhadiri/hudakhadiri/raw/main/1729075821502.jpeg)
 
 # Verified-Neural-Network-for-Traffic-Sign-Recognition
