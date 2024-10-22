@@ -1,4 +1,4 @@
-<center> ![Alt text for the image](./1729075813133.jpeg)
+![Alt text for the image](./1729075813133.jpeg)
 
 
 # Verified-Neural-Network-for-Traffic-Sign-Recognition
@@ -7,3 +7,5 @@ into C code and specified safety properties to ensure robust and correct classif
 model’s robustness using adversarial attacks (FGSM) and validated it through SMT solvers (Z3, Alt-Ergo). Applied
 Why3 for advanced theorem proving on critical properties.
 • Technologies: Python, TensorFlow, C, Frama-C, ACSL, Z3, Alt-Ergo, Why3
+
+![Alt text for the image](./1729075821502.jpeg)
