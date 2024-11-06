@@ -160,9 +160,6 @@ void softmax(float* input, float* output, int size) {
 
 int main() {
     float input_image[INPUT_HEIGHT * INPUT_WIDTH]; 
-
-    // Perform inference
     cnn_inference(input_image);
-
     return 0;
 }
