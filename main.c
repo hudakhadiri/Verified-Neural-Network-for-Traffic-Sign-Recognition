@@ -159,9 +159,7 @@ void softmax(float* input, float* output, int size) {
 }
 
 int main() {
-    // Example input image (replace this with your actual image data)
     float input_image[INPUT_HEIGHT * INPUT_WIDTH]; 
-    // Fill input_image with actual pixel values (normalized if needed)
 
     // Perform inference
     cnn_inference(input_image);
